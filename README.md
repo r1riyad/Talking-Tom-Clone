@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Talking-Tom-Clone
-=======
 # Talking-Tom-Clone
 
 **What it does?**
@@ -18,6 +15,3 @@
 
     pip install -r requirements.txt
     python main.py
-
-    
->>>>>>> 6b62231 (Update README.md)
