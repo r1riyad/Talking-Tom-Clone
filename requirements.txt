@@ -1,0 +1,5 @@
+pyaudio
+wave
+pydub
+pyttsx3
+#tkinter
